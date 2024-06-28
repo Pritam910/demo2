@@ -1,3 +1,4 @@
 #new project
 
-This project was created fro local system.
+This project was created from local system.
+i am pritam
